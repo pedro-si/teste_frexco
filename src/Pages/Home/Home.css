@@ -1,0 +1,112 @@
+.title {
+    text-align: center;
+    color: white
+}
+
+.home h2 {
+    color: white
+}
+
+.home hr {
+    margin-right: 35px;
+}
+
+.nomeFruta {
+    font-size: 40px;
+    color: white;
+    margin-top: 5px;
+    position: absolute;
+
+}
+
+.home ul {
+    list-style: none;
+}
+
+
+
+.buttons {
+    text-decoration: none;
+    text-align: right;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 35px;
+
+}
+
+.buttons button {
+    background-color: #4CAF50;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 250px;
+}
+
+.buttons button:hover {
+    background-color: white;
+    /* Green */
+    color: #4CAF50;
+}
+
+.add {
+    margin-bottom: 5px;
+}
+
+.quantidade {
+    color:white;
+    text-align: center;
+    margin-top: 5px;
+    position:absolute;
+    right:0;
+    margin-right: 350px;
+    
+}
+
+.quantidade button{
+    background-color: beige;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 100px;
+    cursor: pointer;
+    margin: 4px;
+    width: 25px;
+}
+
+.quantidade button:hover{
+    background-color: rgb(173, 173, 166);
+}
+
+.quantidade input {
+    width: 20px;
+    background-color: beige;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}
+
+
+.ButtonIcon{
+    background-color: transparent;
+    color: white;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+}

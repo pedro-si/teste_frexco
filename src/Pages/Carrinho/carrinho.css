@@ -1,0 +1,84 @@
+
+.nomeFrutaCar {
+    font-size: 40px;
+    color: white;
+    margin-top: 5px;
+    position: absolute;
+}
+ul{
+    list-style: none;
+}
+.buttons{
+    margin-right:30px
+}
+.quantidadeCar{
+    color:white;
+    text-align: center;
+    margin-top: 5px;
+    position:absolute;
+    right:0;
+    margin-right: 350px;
+}
+
+
+.quantidadeCar button{
+    background-color: beige;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 100px;
+    cursor: pointer;
+    margin: 4px;
+    width: 25px;
+}
+
+.quantidadeCar button:hover{
+    background-color: rgb(173, 173, 166);
+}
+
+.quantidadeCar input {
+    width: 20px;
+    background-color: beige;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}
+.carrinho{
+    color:white;
+}
+.carrinho hr{
+    margin-right: 30px;
+}
+
+.clear{
+    background-color: #4CAF50;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 250px;
+}
+
+.clear:hover {
+    background-color: white;
+    /* Green */
+    color: #4CAF50;
+}
+
+.limpar{
+    text-align: center;
+}
